@@ -1,3 +1,3 @@
 # initial_projects
-Initial projects
+This is a test project for risk assessment of loans for a bank
 
