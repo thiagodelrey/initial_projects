@@ -1,2 +1,3 @@
 # initial_projects
-Default risk analysis
+Initial projects
+
